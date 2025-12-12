@@ -1,4 +1,4 @@
-### The ultimate DE boot camp
+### The ultimate DE boot camp (Rithvik)
 
 This will be four weeks of curricula
 
